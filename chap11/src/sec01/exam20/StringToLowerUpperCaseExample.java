@@ -15,5 +15,4 @@ public class StringToLowerUpperCaseExample {
 		//대소문자 구별없이 같은지 체크
 		System.out.println(str1.equalsIgnoreCase(str2));
 	}
-
 }
