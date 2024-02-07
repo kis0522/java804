@@ -8,7 +8,7 @@ public class DaemonExample {
 		autoSaveThread.start();
 		
 		try {
-			Thread.sleep(3000);
+			Thread.sleep(3001);
 		} catch(InterruptedException e) {}
 		
 		System.out.println("메인 스레드 종료");
